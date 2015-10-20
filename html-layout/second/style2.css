@@ -1,0 +1,41 @@
+.container {
+
+}
+
+.left {
+	height: 1000px;
+	width: 474px;
+	background-color: cornflowerblue;
+
+	float: left;
+	display: inline-block;
+}
+
+.center {
+	height: 1000px;
+	width: 475.5px;
+	background-color: #95edea;
+	display: inline-block;
+}
+
+.right {
+	height:1000px;
+	width:474px;
+	float: right;
+	display: inline-block;
+	margin-top: -16px;
+}
+
+.top-right {
+	height: 800px;
+	width: 474px;
+	background-color: #caf285;
+}
+
+.bottom-right {
+	height: 200px;
+	width: 474px;
+	background-color: red;
+	float: right;
+	
+}
