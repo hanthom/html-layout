@@ -1,0 +1,44 @@
+header {
+	height: 150px;
+	width: 100%;
+	background-color: grey;
+}
+ .small-box {
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+	float: left;
+	margin: 25px 0 25px 50px;
+}
+
+.content {
+	height: 300px;
+	width: 100%;
+	background-color: white;
+}
+
+.row {
+	height: 150px;
+	width: 100%;
+}
+
+.one {
+	background-color: cornflowerblue;
+}
+
+.two {
+	background-color: #95edea;
+}
+
+.three {
+	background-color: #caf285;
+}
+
+.four {
+	background-color: yellow;
+}
+
+p {
+	font-size: 25px;
+	padding: 75px 50px;
+}
